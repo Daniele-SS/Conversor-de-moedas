@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class conversor_de_moeda {
+public class Conversor_De_Moeda {
     public String moedaOrigem;
     public String moedaDestino;
     public double valorCotacaoOrigem;
